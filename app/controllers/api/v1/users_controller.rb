@@ -6,11 +6,6 @@ class Api::V1::UsersController < ApplicationController
     render json: @user
   end
   
-  def test 
-    render json:{
-      message: 'You have passed auth'
-    }
-  end 
   def create
     @user = User.create(user_params)
    if @user.save
