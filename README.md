@@ -1,24 +1,29 @@
-# README
+# Rams
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Ruby on Rails API back end 
 
-Things you may want to cover:
+> JavaScript & React front end: https://github.com/eeeeoo/ram-frontend
 
-* Ruby version
+#### Rams is a visual note-taking app inspired by the color schemes and simple design by designer Dieter Rams that uses shapes, colors, and text to help you think and create. Users can log in to view prior visualizations, create multiple notes, and save for later use. 
 
-* System dependencies
+## Installation
 
-* Configuration
+## Demo
 
-* Database creation
+## Release History
+* 0.1.0
+    * First official release
 
-* Database initialization
+## Meta
 
-* How to run the test suite
+Jee Yoon Lee – https://eeeeoo.com – jlee66@wellesley.edu
 
-* Services (job queues, cache servers, search engines, etc.)
+[https://github.com/eeeeoo](https://github.com/eeeeoo)
 
-* Deployment instructions
+## Contributing
 
-* ...
+1. Fork it (<https://github.com/eeeeoo/ram-backend/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
