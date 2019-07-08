@@ -16,9 +16,7 @@
 
 ## Meta
 
-Jee Yoon Lee – https://eeeeoo.com – jlee66@wellesley.edu
-
-[https://github.com/eeeeoo](https://github.com/eeeeoo)
+* **Jee Yoon Lee** – [github.com/eeeeoo](https://github.com/eeeeoo)
 
 ## Contributing
 
